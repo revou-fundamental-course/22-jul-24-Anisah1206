@@ -1,0 +1,1 @@
+// JavaScript for form validation or other interactions
